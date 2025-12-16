@@ -19369,7 +19369,6 @@ section.w3l-project-main {
 
 .w3l-index5::before {
     content: "";
-    background: var(--layer);
     position: absolute;
     top: 0;
     bottom: 0;
